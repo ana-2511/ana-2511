@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anangsha-halder-740a40251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
   <a href="mailto:halderanangsha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=flat-square"/>
+  <img src="https://www.researchgate.net/profile/Anangsha-Halder?ev=hdr_xprf?logo=researchgate&logoColor=white&style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=ana-2511&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
