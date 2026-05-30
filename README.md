@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anangsha-halder-740a40251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
   <a href="mailto:halderanangsha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <img src="https://www.researchgate.net/profile/Anangsha-Halder?ev=hdr_xprf?logo=researchgate&logoColor=white&style=flat-square"/>
+  <a href="https://www.researchgate.net/profile/Anangsha-Halder" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=flat-square"/></a>
   <img src="https://komarev.com/ghpvc/?username=ana-2511&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🤖 Currently
 
-- 🛒 **Automation Expert · Analyst Intern @ [Ergode](https://ergode.com/)** —
+- 🛒 **Automation Expert · Analyst Intern @ Ergode VRT (VirVentures)** —
   building production agentic pipelines with **Playwright, Google Vision API,
   PaddleOCR, Google Antigravity, and Google Workspace APIs** that turn manual
   e-commerce workflows (17K+ SKU reconciliation, Amazon Buy Box pricing, FedEx
@@ -115,7 +115,7 @@ Open to **full-time AI Automation Engineering, AI/ML, Medical AI, and GenAI
 roles starting June 2026**. Always up for research collaborations in remote
 sensing, climate AI, medical imaging, and agentic AI.
 
-📩 **halderanangsha@gmail.com** · 🌐 **[LinkedIn](https://www.linkedin.com/in/anangsha-halder-740a40251/)**
+📩 **halderanangsha@gmail.com** · 🌐 **[LinkedIn](https://www.linkedin.com/in/anangsha-halder-740a40251/)** · 🔬 **[ResearchGate](https://www.researchgate.net/profile/Anangsha-Halder)**
 
 <!--
 **ana-2511/ana-2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
