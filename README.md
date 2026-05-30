@@ -15,7 +15,7 @@
 
 ### 🤖 Currently
 
-- 🛒 **Automation Expert · Analyst Intern @ Ergode VRT (VirVentures)** —
+- 🛒 **Automation Expert · Analyst Intern @ [Ergode](https://ergode.com/)** —
   building production agentic pipelines with **Playwright, Google Vision API,
   PaddleOCR, Google Antigravity, and Google Workspace APIs** that turn manual
   e-commerce workflows (17K+ SKU reconciliation, Amazon Buy Box pricing, FedEx
