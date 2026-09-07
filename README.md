@@ -29,7 +29,7 @@
   for tumor segmentation/classification and multimodal diabetic-condition
   classification (deep learning + image processing).
 
-- 🎓 Final-year B.Tech (CSE — AI & ML), The Neotia University · **CGPA 9.22 / 10**
+- 🎓 Final-year B.Tech (CSE — AI & ML), The Neotia University · **CGPA 9.28 / 10**
 
 ### 📚 Published & Recognized
 
